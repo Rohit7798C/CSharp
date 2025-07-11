@@ -3,20 +3,20 @@ namespace First{
     class Program
     {
         public static void Main(string[] args){
-            // Console.WriteLine("Learn Coding");
-            // int a = 10;
-            // a=20;
-            // Console.WriteLine("The value of num is : "+a);
+            Console.WriteLine("Learn Coding");
+            int a = 10;
+            a=20;
+            Console.WriteLine("The value of num is : "+a);
 
-            // double num=45.7;
-            // Console.WriteLine("The value of num is : "+num);
+            double num=45.7;
+            Console.WriteLine("The value of num is : "+num);
 
 
-            // string str = "Rohit";
-            // Console.WriteLine("Value of str is : "+str);
+            string str = "Rohit";
+            Console.WriteLine("Value of str is : "+str);
 
-            // bool b=true;
-            // Console.WriteLine("The value of b is : "+b);
+            bool b=true;
+            Console.WriteLine("The value of b is : "+b);
 
 
             // C# input-output
@@ -24,11 +24,11 @@ namespace First{
             // String value --> ReadLine()
             // Integer value --> ToInt16() / ToInt32() / ToInt64()--> (It also converts string value to integer value).
 
-            // Taking String as Input
-            // string name;
-            // Console.Write("Enter Your Name : ");
-            // name = Console.ReadLine();
-            // Console.Write("My name is : "+name);
+            Taking String as Input
+            string name;
+            Console.Write("Enter Your Name : ");
+            name = Console.ReadLine();
+            Console.Write("My name is : "+name);
 
             //Console.Read(): Reads a single character from the input stream. It returns the integer representation of that character (its ASCII/Unicode value).
             //Console.ReadLine(): Reads an entire line of characters (until the user presses Enter) from the input stream. It returns this line as a string.
